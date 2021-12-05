@@ -5,8 +5,12 @@
 - C# / WPF
 - Kotlin / Android
 - SQL
-## In the near future I want to learn ...
-- Phyton
+## :books: In the near future I want to learn ...
+- I want to deepen my knowledge of OOP
+- Python / Django
+- JavaScript / React, Node.js
+- ¿PHP?
+- ¿C++?
 ## 💞️ I’m looking to collaborate on ...
 ## 📫 How to reach me ...
 
