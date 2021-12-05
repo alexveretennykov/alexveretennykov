@@ -1,4 +1,4 @@
-### 👋 Hi, I’m @alexveretennykov
+### 👋 Hi, I’m Alex @alexveretennykov
 ## 🌱 I’m currently learning ...
 - Java / Spring
 - C# / WPF
