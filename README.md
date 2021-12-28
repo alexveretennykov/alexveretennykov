@@ -6,8 +6,8 @@
 - SQL
 ## :books: In the near future I want to learn ...
 - I want to deepen my knowledge of OOP and algorithms
-- Python / Django
 - JavaScript / React, Node.js
+- Python / Django
 - Dart / Flutter
 - ¿PHP?
 - ¿C++?
