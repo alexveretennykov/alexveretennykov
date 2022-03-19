@@ -5,7 +5,7 @@
 - Kotlin / Android
 - SQL
 - 
-## :books: Technologies learned to date
+## :books: Books read to date
 - Java with BlueJ
 
 <!---
