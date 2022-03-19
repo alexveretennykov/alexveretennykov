@@ -3,8 +3,8 @@
 - Java / Spring
 - C# / WPF
 - Kotlin / Android
-- SQL
-- 
+- MySQL / MongoDB 
+
 ## :books: Books read to date
 - Java with BlueJ
 
