@@ -1,16 +1,12 @@
 ### 👋 Hi, I’m Alex @alexveretennykov
-## 🌱 I’m currently learning ...
+## 🌱 Technologies learned to date
 - Java / Spring
 - C# / WPF
 - Kotlin / Android
 - SQL
-## :books: In the near future I want to learn ...
-- I want to deepen my knowledge of OOP and algorithms
-- JavaScript / React, Node.js
-- Python / Django
-- Dart / Flutter
-- ¿PHP?
-- ¿C++?
+- 
+## :books: Technologies learned to date
+- Java with BlueJ
 
 <!---
 alexveretennykov/alexveretennykov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
